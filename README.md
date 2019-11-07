@@ -2,9 +2,9 @@
 Welcome to my Bamazon a node.js "cli" application for a storefront that can hold inventory/stock and take orders based on user requests using their command line.
 
 <h1>NPM Packages & Technology used</h1>
-:point_right: <a href=https://www.npmjs.com/package/dotenv>NPM install dotenv</a>
-<br>
 :point_right: <a href=https://www.npmjs.com/package/npm>NPM install</a>
+<br>
+:point_right: <a href=https://www.npmjs.com/package/dotenv>NPM install dotenv</a>
 <br>
 :point_right: <a href=https://www.npmjs.com/package/request>NPM install request</a>
 <br>
@@ -40,4 +40,4 @@ image 1 shows the bands in town api being called
 image 2 shows the spotify api being called
 <img src="img/img2.png" alt="Spotify">
 
-<h2>Manager view and Supervisor js files comming real soon!!!</h2>
+<h2>.txt file export option in the works!!!</h2>
