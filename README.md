@@ -16,8 +16,7 @@ Welcome to my Bamazon a node.js "cli" application for a storefront that can hold
 <br>
 :point_right: <a href=https://www.npmjs.com/package/node-spotify-api>NPM install node-spotify-api</a>
 <br>
-:point_right: <a href=https://www.npmjs.com/package/console.table>NPM install console.table</a>
-<hr>
+
 <h3>Terminal</h3>
 
 <h3>Visual Code</h3>
