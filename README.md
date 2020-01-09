@@ -1,4 +1,4 @@
-# My-Bamazon
+<h1 align="center">My-Bamazon CLI</h1>
 Welcome to my Bamazon a node.js "cli" application for a storefront that can hold inventory/stock and take orders based on user requests using their command line.
 
 <h1>NPM Packages & Technology used</h1>
